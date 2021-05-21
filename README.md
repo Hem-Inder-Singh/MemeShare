@@ -3,5 +3,5 @@ This is an Android Studio Project using Kotlin. It shows you awesome Memes. It r
 I have used **Reddit API** in it.
 # Software Requirement
 - Android Studio
-# Others prerequisite
+# Other prerequisite
 - Internet 
